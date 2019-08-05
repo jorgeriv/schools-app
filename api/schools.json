@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "name": "Miguel Hidalgo",
+        "rating": 4,
+        "ranking": 1,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Vicente Guerrero",
+        "rating": 3,
+        "ranking": 2,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jose Maria Morelos",
+        "rating": 2,
+        "ranking": 3,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Josefa Ortiz de Dominguez",
+        "rating": 5,
+        "ranking": 4,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Justo Sierra",
+        "rating": 1,
+        "ranking": 5,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Benito Juarez",
+        "rating": 2,
+        "ranking": 6,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Sor Juana Inez de la Cruz",
+        "rating": 3,
+        "ranking": 7,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Frida Kalo",
+        "rating": 5,
+        "ranking": 8,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Diego Rivera",
+        "rating": 1,
+        "ranking": 9,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Francisco I. Madero",
+        "rating": 2,
+        "ranking": 10,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Doroteo Arango",
+        "rating": 3,
+        "ranking": 11,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Emiliano Zapata",
+        "rating": 3,
+        "ranking": 12,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Cuahutemoc",
+        "rating": 4,
+        "ranking": 13,
+        "location": { "lat": 0, "lng": 0 },
+        "news": [
+            {"title": "Title 1", "body": "Some example news text for news 1"},
+            {"title": "Title 2", "body": "Some example news text for news 2"},
+            {"title": "Title 3", "body": "Some example news text for news 3"}
+        ]
+    }
+
+]
