@@ -2,11 +2,13 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const multer = require('multer');
 const upload = multer();
+const cors = require('cors');
 const schoolsDb = require('./schools.json');
 
 const app = express();
 const port = 3001;
 
+app.use(cors());
 app.use(bodyParser.json());
 app.use(upload.none());
 

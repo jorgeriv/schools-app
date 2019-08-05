@@ -1,0 +1,11 @@
+.school {
+    background-color: gray;
+    border: 1px solid black;
+    padding: .8rem;
+    margin: 1.2rem .5rem;
+}
+
+.school h3 {
+    text-transform: capitalize;
+    text-align: center;
+}
